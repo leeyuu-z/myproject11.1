@@ -1,0 +1,4 @@
+source_name,url,level,coverage_claim,expected_variables,access_method,status,access_observation,license,retrieval_date,evidence
+北京大学中国商业银行数字化转型指数,https://www.idf.pku.edu.cn/zsbz/bjdxsyyhszhzxzs/index.htm,bank-year,附件称第三期2010—2021、246家；未独立核验,digital及子维度,邮件申请；联系方式待官方复核,PENDING_REQUEST,PROXY_403,待课题组确认，不公开原始数据,2026-11-02,官方访问失败；本地无指数；用户确认已邮件申请，尚未回复，未取得数据
+CSMAR银行财务及上市公司财务相关子库,https://data.csmar.com/,bank-year,目标2010—2021；实际覆盖未知,"cir,total_assets,car,npl,roa及证券基本信息",学校授权；实际子库待核实,UNAVAILABLE,用户确认学校无可用CSMAR授权；未取得数据,以学校数据库授权协议为准,2026-11-02,用户提供学校授权情况；不再作为当前可执行主路径
+银行官方年报,https://www.icbc-ltd.com/page/721852537908264973.html,bank-year,附件提供工行2021候选页面；未核实,cir及财务核对,公开年报，逐页留证,UNAVAILABLE,NOT_ATTEMPTED,待确认使用条件,2026-11-02,未下载，仅候选来源

@@ -1,0 +1,10 @@
+# 受限原始数据与中间产物不得提交公共仓库
+/data/**
+!/data/**/
+!/data/**/.gitkeep
+/outputs/**
+!/outputs/**/
+!/outputs/**/.gitkeep
+.venv/
+__pycache__/
+.pytest_cache/

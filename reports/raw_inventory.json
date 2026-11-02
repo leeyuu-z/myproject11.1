@@ -1,0 +1,8 @@
+{
+  "generated_at_utc": "2026-11-02T02:05:26.050368+00:00",
+  "root": "/workspace/finance-paper/data/raw",
+  "data_status": "BLOCKED",
+  "file_count": 0,
+  "files": [],
+  "note": "文件存在不代表数据真实、来源已核验或可以回归。空目录不能计算样本量。"
+}

@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-02",
+  "method": "Python urllib.request.urlopen via inherited HTTPS proxy; TLS verification enabled",
+  "requests": [
+    {
+      "url": "https://www.idf.pku.edu.cn/zsbz/bjdxsyyhszhzxzs/index.htm",
+      "result": "URLError: Tunnel connection failed: 403 Forbidden",
+      "downloaded": false
+    },
+    {
+      "url": "https://data.csmar.com/",
+      "result": "URLError: Tunnel connection failed: 403 Forbidden",
+      "downloaded": false
+    }
+  ],
+  "network_draft": "Saved official domains www.idf.pku.edu.cn, idf.pku.edu.cn, data.csmar.com; not applied or published; no successful revalidation claimed"
+}
